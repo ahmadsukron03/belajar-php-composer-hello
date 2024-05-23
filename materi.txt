@@ -1,0 +1,5 @@
+type : vcs
+version control
+untuk kita pakai nya kita definisikan dibawah :
+merupakan composer name sebelumnya di library yang kita buat
+1.0.0 = tagnya harus disamakan
